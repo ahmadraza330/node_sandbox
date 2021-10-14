@@ -1,0 +1,1 @@
+Hello from writrefileSync: Hello from txt
